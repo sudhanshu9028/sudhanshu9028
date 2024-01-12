@@ -3,19 +3,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@Times+Internet+Limited;IIT+BHU+Alum;Competitive+Programmer;Expert+on+Codeforces;Always+learning+new+things"></a>
 </p>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 
 <br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
 
 - 🏢: I am a `Software Developer` at `Times Internet Limited`.
 - 🖥️: I am currently working on `ReactJs` and `NodeJs` projects.
 - 👨‍🎓: I completed my B.Tech from `IIT BHU` in 2022.
 - 💻: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - :nerd_face: I am currently learning `NextJs`, `MongoDB`, `Socket.io`.
+<br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
